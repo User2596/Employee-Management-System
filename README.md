@@ -9,7 +9,7 @@ A simple console-based employee management system written in C. The system reads
 - Display all employees
 
 ## How to Run
-1. Clone the repository using `git clone [https://github.com/username/Employee-Management-System-C.git](https://github.com/User2596/Employee-Management-System.git)`
+1. Clone the repository using `git clone` [https://github.com/username/Employee-Management-System-C.git](https://github.com/User2596/Employee-Management-System.git)
 2. Navigate to the project directory.
 3. Compile the program using the following command: `gcc -o main main.c`
 4. Run the program using `./main`
