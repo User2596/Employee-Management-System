@@ -38,4 +38,4 @@ This function allows the user to edit an existing employee's information by thei
 - The employee information is stored in a single CSV file, which may not be scalable for larger systems.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE.md` file for details.
