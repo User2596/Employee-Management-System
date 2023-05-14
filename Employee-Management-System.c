@@ -147,7 +147,9 @@ void editEmployee() {
     		gets(employees[i].title);
     		printf("Enter Salary: ");
     		scanf("%f", &employees[i].salary);
-    	
+    		for (int j = i; j < employeeCount - 1; j++) {
+                employees[j] = employees[j + 1];
+            }
             saveData();
             printf("Employee details updated successfully.\n");
             break;
