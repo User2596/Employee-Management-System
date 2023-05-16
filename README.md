@@ -36,6 +36,3 @@ This function allows the user to edit an existing employee's information by thei
 ## Limitations
 - The system can only store a maximum of 100 employees.
 - The employee information is stored in a single CSV file, which may not be scalable for larger systems.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
